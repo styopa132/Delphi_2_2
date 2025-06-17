@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.185,C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\dbase1_silantev_428\Unit2.pas=C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.359,C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\dbase1_silantev_428\seqeunceDB.dproj=C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\seqeunceDB.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\dbase1_silantev_428\Unit1.pas=C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.880,C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\dbase1_silantev_428\Unit1.dfm=C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.185,C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\dbase1_silantev_428\Unit2.dfm=C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\dbase1_silantev_428\seqeunceDB.dproj=C:\Users\valer\Desktop\учёба\Delphi\zadachnik\164 (sql)\dbase1_silantev_428\dbase.dproj</Transaction>
+    <Transaction>2023.04.30 19:53:34.517,C:\Users\Stepan\Desktop\SQL ГОтовое\SQL.dproj=C:\Users\Stepan\Desktop\sQl1\164 (sql)\seqeunceDB.dproj</Transaction>
+    <Transaction>2023.04.30 19:53:39.783,C:\Users\Stepan\Desktop\SQL ГОтовое\SQL.dproj=C:\Users\Stepan\Desktop\SQL ГОтовое\SQL.dproj</Transaction>
+    <Transaction>2023.04.30 19:54:25.989,C:\Users\Stepan\Desktop\SQL ГОтовое\Unit1.pas=C:\Users\Stepan\Desktop\sQl1\164 (sql)\Unit1.pas</Transaction>
+    <Transaction>2023.04.30 19:54:25.989,C:\Users\Stepan\Desktop\SQL ГОтовое\Unit1.dfm=C:\Users\Stepan\Desktop\sQl1\164 (sql)\Unit1.dfm</Transaction>
+    <Transaction>2023.04.30 19:54:44.362,C:\Users\Stepan\Desktop\SQL ГОтовое\Unit2.dfm=C:\Users\Stepan\Desktop\sQl1\164 (sql)\Unit2.dfm</Transaction>
+    <Transaction>2023.04.30 19:54:44.362,C:\Users\Stepan\Desktop\SQL ГОтовое\Unit2.pas=C:\Users\Stepan\Desktop\sQl1\164 (sql)\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
